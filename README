@@ -11,5 +11,3 @@ long term stable C API initially for the Xen paravirtualization but
 should be able to integrate other virtualization mechanisms if needed.
 
 Daniel Veillard <veillard@redhat.com>
-
-test
